@@ -1,4 +1,4 @@
-SICP Solutions
+SICP-Solutions
 =====
 
 This is my personal work in solving the questions posed in the classic textbook:
